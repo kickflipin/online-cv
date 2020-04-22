@@ -7,52 +7,40 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Woen-Sug Choi
+    tagline: Ph.D Engineering
+    avatar: avatar.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: woensug.eric.choi@gmail.com
+    phone: +82 010-8682-7886
+    website: kickflipin.github.io #do not add http://
+    github: kickflipin
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Japanese
+        level: Professional
+
+      - idiom: Korean
         level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+•	Highly self-motivated Ph.D. candidate with demonstrated research expertise analysis of flow-induced noise and vibration incorporating CFD calculations. Strong interpersonal skills and research project managements.
+•	Rich experience in modeling and simulating using OpenFOAM and in-house aeroacoustics, structure solver modules.
+•	Strong adaptation to different programming languages. (First learned Visual Basic programming at age of 9)
+•	Language: Fluent in Korean (Native), English (Graduated middle school in San Antonio, Texas, USA), and Japanese.
+•	US residency experience : 9th grade at Rogers high school, Newport, RI (3 years grade skipping at age of 13) 
+•	Member of a military family
+-	Father :  former submarine captain and naval attaché to USA retired as a rear admiral at Republic of Korea Navy.
+-	Brother : Served Republic of Korea Marine Corps
+-	Myself : Served as Technical Research Personnel for Republic of Korea Army
+
+
 education:
     - degree: MSc in Computer Science
       university: University of London
